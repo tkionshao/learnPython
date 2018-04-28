@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+ <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/article#">
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="index,follow" name="robots"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <title>
+   Electric Guitars | Ibanez guitars
+  </title>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@IbanezJapan" name="twitter:site"/>
+  <meta content="100685953601615" property="fb:app_id"/>
+  <meta content="Electric Guitars | Ibanez guitars" property="og:title"/>
+  <meta content="article" property="og:type"/>
+  <meta content="http://www.ibanez.co.jp/products/eg_top16_jp.php?year=2016" property="og:url"/>
+  <meta content="http://www.ibanez.co.jp/images/ibanez_noimage.png" property="og:image"/>
+  <meta content="Ibanez Guitars" property="og:site_name"/>
+  <meta content="https://www.facebook.com/ibanezguitars" property="article:publisher"/>
+  <meta content="http://www.ibanez.co.jp/images/ibanez_noimage.png" name="thumbnail"/>
+  <link href="http://www.ibanez.co.jp/products/eg_top16_jp.php?year=2016" rel="canonical"/>
+  <link href="http://www.ibanez.co.jp/" rel="start"/>
+  <meta content="HOSHINO GAKKI CO., LTD." name="Author"/>
+  <meta content="© Ibanez guitars. All Rights Reserved." name="copyright"/>
+  <!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href="../css/normalize.min.css" rel="stylesheet"/>
+  <link href="../css/base.css" rel="stylesheet"/>
+  <link href="../css/slicknav.css" rel="stylesheet"/>
+  <link href="../css/search.css" rel="stylesheet"/>
+  <link href="../css/swiper.min.css" rel="stylesheet"/>
+  <link href="../css/toppage.css" rel="stylesheet"/>
+  <link href="../css/toppage_swiper.css" rel="stylesheet"/>
+  <link href="../css/product_top2.css" rel="stylesheet"/>
+  <link href="../css/eg.css" rel="stylesheet"/>
+  <script src="../js/footer.js">
+  </script>
+  <script src="../js/search_jp.js">
+  </script>
+ </head>
+ <body>
+  <div id="fb-root">
+  </div>
+  <div id="HeadMenu">
+   <div id="MainMenu">
+    <h1 id="IbanezLogo">
+     <a href="../index.html">
+      Ibanez
+     </a>
+    </h1>
+    <ul>
+     <li>
+      <a href="http://www.ibanez.co.jp/products/eg_top16_jp.php?year=2016&amp;cat_id=1">
+       Electric Guitars
+      </a>
+     </li>
+     <li>
+      <a href="http://www.ibanez.co.jp/products/eb_top16_jp.php?year=2016&amp;cat_id=2">
+       Basses
+      </a>
+     </li>
+     <li>
+      <a href="http://www.ibanez.co.jp/products/hb_top16_jp.php?year=2016&amp;cat_id=7">
+       Hollow Bodies
+      </a>
+     </li>
+     <li>
+      <a href="http://www.ibanez.co.jp/products/ag_top16_jp.php?year=2016&amp;cat_id=3">
+       Acoustics
+      </a>
+     </li>
+     <li>
+      <a href="http://www.ibanez.co.jp/products/ele_top16_jp.php?year=2016">
+       Electronics
+      </a>
+     </li>
+     <li>
+      <a href="../products/accessories/index.html">
+       Accessories
+      </a>
+     </li>
+    </ul>
+   </div>
+   <!--/MainMenu-->
+   <div id="SubMenu">
+    <div class="wide">
+     <ul>
+      <li>
+       <a class="MenuBarItemSubmenu" href="#" id="Menu02">
+        Artists
+       </a>
+       <ul>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=1&amp;area=1">
+          Electric Guitars
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=2&amp;area=1">
+          Electric Basses
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=7&amp;area=1">
+          Hollow Bodies
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=3&amp;area=1">
+          Acoustic Guitars
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=4&amp;area=1">
+          Electronics
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="MenuBarItemSubmenu" href="#" id="Menu03">
+        News
+       </a>
+       <ul>
+        <li>
+         <a href="../news/f_products/index.html">
+          Feature Products
+         </a>
+        </li>
+        <li>
+         <a href="../news/show/index.html">
+          Show/Event
+         </a>
+        </li>
+        <li>
+         <a href="../news/videos/index.html">
+          Videos
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="MenuBarItemSubmenu" href="../dealers/index.html" id="Menu04">
+        Dealers
+       </a>
+      </li>
+      <li>
+       <a class="MenuBarItemSubmenu" href="#" id="Menu07">
+        Support
+       </a>
+       <ul>
+        <li>
+         <a href="../support/catalog/index.html">
+          Catalogs
+         </a>
+        </li>
+        <li>
+         <a href="../support/manual/index.html">
+          Manuals
+         </a>
+        </li>
+        <li>
+         <a href="../Counterfeit_Warning/index.html" target="_blank">
+          Counterfeit Warning
+         </a>
+        </li>
+        <li>
+         <a href="../contact/index.html">
+          FAQ
+         </a>
+        </li>
+        <li>
+         <a href="http://sdio.jp/hoshino-gakki-hanbai/" target="_blank">
+          Ibanezè£½åä¿è¨¼ç»é²
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <div id="gsearch_jp">
+      <gcse:searchbox-only queryparametername="q" resultsurl="http://www.ibanez.co.jp/search_r.html">
+      </gcse:searchbox-only>
+     </div>
+    </div>
+   </div>
+   <!--/SubMenu-->
+  </div>
+  <!--/HeadMenu-->
+  <!--/HeadMenu-->
+  <div class="clearfix" id="pageContent">
+   <!--CM-->
+   <div class="TopContents">
+    <div class="swiper-container" id="cm">
+     <div class="swiper-wrapper">
+      <div class="swiper-slide">
+       <a href="http://www.ibanez.co.jp/products/eg_detail_jp.php?year=2016&amp;cat_id=1&amp;series_id=20&amp;data_id=476&amp;color=CL01" onclick="ga('send', 'event', 'inbound', 'click', 'JS1CR30', true);">
+        <img alt="JS30" border="0" src="../images/top-content/top_slider/JS30.jpg"/>
+        <div class="title">
+        </div>
+        <div class="Caption">
+        </div>
+       </a>
+      </div>
+      <div class="swiper-slide">
+       <a href="http://www.ibanez.co.jp/products/eg_series16_jp.php?cat_id=1&amp;year=2016&amp;series_id=1&amp;pre=8" onclick="ga('send', 'event', 'inbound', 'click', 'JC', true);">
+        <img alt="JC" border="0" src="../images/top-content/top_slider/JC.jpg"/>
+        <div class="title">
+        </div>
+        <div class="Caption">
+        </div>
+       </a>
+      </div>
+      <div class="swiper-slide">
+       <a href="http://www.ibanez.co.jp/products/eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=25&amp;pre=0" onclick="ga('send', 'event', 'inbound', 'click', 'AZ', true);">
+        <img alt="AZ" border="0" src="../images/top-content/top_slider/AZ.jpg"/>
+        <div class="title">
+         NEW AZ SERIES
+        </div>
+        <div class="Caption">
+         PUSHING THE BOUNDARIES
+        </div>
+       </a>
+      </div>
+      <div class="swiper-slide">
+       <a href="http://www.ibanez.co.jp/products/eg_detail_jp.php?year=2016&amp;cat_id=1&amp;series_id=26&amp;data_id=475&amp;color=CL01" onclick="ga('send', 'event', 'inbound', 'click', 'PSD', true);">
+        <img alt="" border="0" src="../images/top-content/top_slider/PSD.jpg"/>
+        <div class="title">
+        </div>
+        <div class="Caption">
+        </div>
+       </a>
+      </div>
+      <!--<div class="swiper-slide"><a href="eg_series16_jp.php?cat_id=1&year=2016&series_id=2&pre=1"><img src="../images/top-content/top_slider/RGV.jpg" alt="" border="0" />
+          <div class="title">&nbsp;</div>
+          <div class="Caption">&nbsp;</div>
+          </a></div>-->
+     </div>
+     <!--/swiper-wrapper-->
+     <!-- Add Pagination -->
+     <div class="swiper-pagination swiper-pagination-white">
+     </div>
+    </div>
+    <!--/cm-->
+   </div>
+   <!--/TopContents-->
+   <div id="ProdustTop">
+    <h3>
+     Signature Models
+    </h3>
+    <div class="signature_models">
+     <ul class="clearfix">
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=12">
+        <img src="images/eg2016/topimg/12.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=24">
+        <img src="images/eg2016/topimg/24.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=20">
+        <img src="images/eg2016/topimg/20.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=13">
+        <img src="images/eg2016/topimg/13.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=16">
+        <img src="images/eg2016/topimg/16.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=18">
+        <img src="images/eg2016/topimg/18.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=100">
+        <img src="images/eg2016/topimg/100.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=17">
+        <img src="images/eg2016/topimg/17.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=19">
+        <img src="images/eg2016/topimg/19.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=22">
+        <img src="images/eg2016/topimg/22.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=23">
+        <img src="images/eg2016/topimg/23.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=15">
+        <img src="images/eg2016/topimg/15.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=26">
+        <img src="images/eg2016/topimg/26.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="eg_sig_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=29">
+        <img src="images/eg2016/topimg/29.jpg"/>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <h3>
+     Models by Series
+    </h3>
+    <div class="model_series">
+     <ul class="model_series">
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=25&amp;pre=0">
+        <img src="images/eg2016/topimg/list/25.png"/>
+        <i>
+         AZ
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=1&amp;pre=0">
+        <img src="images/eg2016/topimg/list/1.png"/>
+        <i>
+         RG
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=3&amp;pre=1">
+        <img src="images/eg2016/topimg/list/3.png"/>
+        <i>
+         RGD
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=2&amp;pre=0">
+        <img src="images/eg2016/topimg/list/2.png"/>
+        <i>
+         RGV
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=4&amp;pre=0">
+        <img src="images/eg2016/topimg/list/4.png"/>
+        <i>
+         RGA
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=5&amp;pre=0">
+        <img src="images/eg2016/topimg/list/5.png"/>
+        <i>
+         S
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=6&amp;pre=0">
+        <img src="images/eg2016/topimg/list/6.png"/>
+        <i>
+         SV
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=7&amp;pre=1">
+        <img src="images/eg2016/topimg/list/7.png"/>
+        <i>
+         SA
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=30&amp;pre=0">
+        <img src="images/eg2016/topimg/list/30.png"/>
+        <i>
+         FR
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=8&amp;pre=0">
+        <img src="images/eg2016/topimg/list/8.png"/>
+        <i>
+         Roadcore
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=27&amp;pre=0">
+        <img src="images/eg2016/topimg/list/27.png"/>
+        <i>
+         Talman
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=21&amp;pre=0">
+        <img src="images/eg2016/topimg/list/21.png"/>
+        <i>
+         ARZ
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=14&amp;pre=2">
+        <img src="images/eg2016/topimg/list/14.png"/>
+        <i>
+         miKro
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_series16_jp.php?year=2016&amp;cat_id=1&amp;series_id=10&amp;pre=2">
+        <img src="images/eg2016/topimg/list/10.png"/>
+        <i>
+         GIO Ibanez
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="eg_pre16_jp.php?year=2016&amp;cat_id=1&amp;series_id=28&amp;pre=0">
+        <img src="images/eg2016/topimg/list/28.png"/>
+        <i>
+         OTHERS
+        </i>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <!--/ProdustTop-->
+   <div class="TopContents">
+    <div id="banner-SNS">
+     <ul>
+      <li>
+       <a href="http://www.ibanez.co.jp/products/eg_detail_jp.php?year=2016&amp;cat_id=1&amp;series_id=1&amp;data_id=433&amp;color=CL01">
+        <img alt="JBM27" src="../images/top-content/SNS/RGR_prestige.jpg"/>
+       </a>
+      </li>
+      <li>
+       <a href="http://www.ibanez.co.jp/products/eg_detail_jp.php?year=2016&amp;cat_id=1&amp;series_id=1&amp;data_id=459&amp;color=CL01">
+        <img alt="RG652MPBFX" src="../images/top-content/SNS/RGIX6.jpg"/>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!--/banner-SNS-->
+    <div id="video-harf">
+     <div class="video">
+      <a class="videoplayer" href="http://www.youtube.com/embed/EFRgBFtcQII?autoplay=1">
+       <img src="../images/top-content/video/AZ.jpg"/>
+       <div class="Caption">
+        Ibanez AZ Electric Guitar - Story of the AZ
+       </div>
+      </a>
+     </div>
+    </div>
+    <!--/video-harf-->
+    <!--/banner-harf-->
+   </div>
+   <!--/TopContents-->
+   <p id="page-top">
+    <a href="#wrap">
+     PAGE TOP
+    </a>
+   </p>
+  </div>
+  <!--pageContent-->
+  <div id="Footer">
+   <div class="PageSize">
+    <div class="clearfix" id="World">
+     <div id="FooterLinks">
+      <ul class="clearfix">
+       <li id="L01">
+        <a href="https://www.facebook.com/IbanezJapan" target="_blank">
+         Facebook
+        </a>
+       </li>
+       <li id="L02">
+        <a href="https://twitter.com/ibanezjapan" target="_blank">
+         twitter
+        </a>
+       </li>
+       <li id="L14">
+        <a href="http://instagram.com/ibanez_japan" target="_blank">
+         Instagram
+        </a>
+       </li>
+       <li id="L03">
+        <a href="https://www.youtube.com/user/hgjkikaku" target="_blank">
+         YouTube
+        </a>
+       </li>
+      </ul>
+     </div>
+     <script language="JavaScript">
+      <!--
+	footer();
+//-->
+     </script>
+    </div>
+   </div>
+   <div id="FooterMenu">
+    <div class="PageSize">
+     <ul id="SiteMap">
+      <li class="B">
+       <strong>
+        Products
+       </strong>
+       <ul>
+        <li>
+         <a href="http://www.ibanez.co.jp/products/eg_top16_jp.php?year=2016&amp;cat_id=1">
+          Electric Guitars
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/products/eb_top16_jp.php?year=2016&amp;cat_id=2">
+          Basses
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/products/hb_top16_jp.php?year=2016&amp;cat_id=7">
+          Hollow Bodies
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/products/ag_top16_jp.php?year=2016&amp;cat_id=3">
+          Acoustics
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/products/ele_top16_jp.php?&amp;year=2016">
+          Electronics
+         </a>
+        </li>
+        <li>
+         <a href="../products/accessories/index.html">
+          Accessories
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="B">
+       <strong>
+        Artists
+       </strong>
+       <ul>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=1">
+          Electric Guitars
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=2">
+          Electric Basses
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=3">
+          Acoustic Guitars
+         </a>
+        </li>
+        <li>
+         <a href="http://www.ibanez.co.jp/artist/artist_list_jp.php?CATEGORY_ID=4">
+          Electronics
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="B">
+       <strong>
+        News
+       </strong>
+       <ul>
+        <li>
+         <a href="../news/f_products/index.html">
+          Feature Products
+         </a>
+        </li>
+        <li>
+         <a href="../news/show/index.html">
+          Show/Event
+         </a>
+        </li>
+        <li>
+         <a href="../artist/movies/index.html">
+          Videos
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="B">
+       <a href="../dealers/index.html">
+        <strong>
+         Dealers
+        </strong>
+       </a>
+      </li>
+      <li class="B">
+       <strong>
+        Support
+       </strong>
+       <ul>
+        <li>
+         <a href="../support/catalog/index.html">
+          Catalogs
+         </a>
+        </li>
+        <li>
+         <a href="../support/manual/index.html">
+          Manuals
+         </a>
+        </li>
+        <li>
+         <a href="../Counterfeit_Warning/index.html" target="_blank">
+          Counterfeit Warning
+         </a>
+        </li>
+        <li>
+         <a href="../contact/index.html">
+          FAQ
+         </a>
+        </li>
+        <li>
+         <a href="http://sdio.jp/hoshino-gakki-hanbai/" target="_blank">
+          Ibanezè£½åä¿è¨¼ç»é²
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="B">
+       <strong>
+        Others
+       </strong>
+       <ul>
+        <li>
+         <a href="http://www.hoshinogakki.co.jp/" target="_blank">
+          Company info.
+         </a>
+        </li>
+        <li>
+         <a href="../privacy/jouken.html">
+          ãå©ç¨æ¡ä»¶
+         </a>
+        </li>
+        <li>
+         <a href="../privacy/index.html">
+          Privacy Policy
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <div class="Clear">
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--Footer-->
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js">
+  </script>
+  <script src="../js/pagescroll.js">
+  </script>
+  <script src="../js/jquery.slicknav.js">
+  </script>
+  <script src="../js/SpMenu.js">
+  </script>
+  <script src="../js/swiper.min.js">
+  </script>
+  <script src="../js/swiper_setting.js">
+  </script>
+  <script src="../js/test.js">
+  </script>
+  <script src="../js/movie.js">
+  </script>
+  <script src="../js/sns.js">
+  </script>
+  <script src="https://apis.google.com/js/plusone.js">
+  </script>
+  <script src="../js/access_jp.js">
+  </script>
+ </body>
+</html>
